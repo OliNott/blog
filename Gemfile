@@ -24,6 +24,9 @@ gem 'turbolinks', '~> 5'
 # Simple form Gem
 gem 'simple_form'
 
+# .Env
+gem 'dotenv-rails', groups: [:development, :test]
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 

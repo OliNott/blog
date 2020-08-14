@@ -24,6 +24,9 @@ gem 'turbolinks', '~> 5'
 # Simple form Gem
 gem 'simple_form'
 
+# Cloudinary uploads
+gem 'cloudinary', '~> 1.12.0'
+
 # .Env
 gem 'dotenv-rails', groups: [:development, :test]
 
